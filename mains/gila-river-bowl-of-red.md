@@ -6,7 +6,6 @@
 **Cook Time:** 2 hours  
 **Total Time:** 2.5 hours  
 **Servings:** 6-8  
-**Tags:** 🌶️ Spicy, ⏰ Slow Cook, 🎉 Party Favorite
 
 ---
 

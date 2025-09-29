@@ -6,7 +6,6 @@
 **Cook Time:** 30 minutes  
 **Total Time:** 40 minutes  
 **Servings:** 8-10  
-**Tags:** 🕐 Quick, 🔥 Requires Special Equipment (cast iron)
 
 ---
 

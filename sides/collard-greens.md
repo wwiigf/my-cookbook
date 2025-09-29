@@ -6,7 +6,6 @@
 **Cook Time:** 45 minutes  
 **Total Time:** 1 hour 5 minutes  
 **Servings:** 6-8  
-**Tags:** 🌶️ Spicy, 🍖 BBQ
 
 ---
 

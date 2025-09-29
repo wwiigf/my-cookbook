@@ -94,13 +94,8 @@
 
 ## Notes
 
-- The brown butter is the star - don't rush the browning process
-- Watch carefully when browning butter - it goes from perfect to burnt quickly
-- Room temperature ingredients are crucial for proper mixing
 - The cake can be made a day ahead - just frost before serving
-- If caramel is too thick for piping, warm the bag under hot water
-- This really does taste like a easier version of sticky toffee pudding
-- The combination of caramel in the cake and on top makes it incredibly moist
+
 
 ---
 

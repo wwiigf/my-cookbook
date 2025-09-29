@@ -14,6 +14,9 @@
 **[Biscuits and Gravy](mains/biscuits-and-gravy.md)**  
 *"Stick to your ribs"*  
 
+**[Every Day Pizza Dough](mains/pizza-dough.md)**  
+*"Stick to your ribs"*  
+
 ---
 
 ## 🥘 Sides

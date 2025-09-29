@@ -7,7 +7,6 @@
 **Chill Time:** 4+ hours (overnight best)  
 **Total Time:** 5+ hours  
 **Servings:** 4-6 ramekins  
-**Tags:** 🥛 Dairy Heavy, 🔥 Requires Special Equipment, 🎉 Party Favorite
 
 ---
 

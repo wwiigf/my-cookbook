@@ -56,6 +56,7 @@
 - Shaping the ball twice before cooking allows the dough to rise more
 - Substitute 210g of water for 160g beer + 50g water for more significant malt flavor 
 - Only use bread flour. The 00 flour is a scam and does not hydrate consistently
+- For cheese: 50/50 blend of part skim, and whole milk mozz, plus a good chedder. Add fresh parm when done cooking. 
 
 ---
 

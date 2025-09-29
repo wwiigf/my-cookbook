@@ -6,7 +6,6 @@
 **Cook Time:** 30 minutes  
 **Total Time:** 50 minutes  
 **Servings:** 8-10  
-**Tags:** 🥛 Dairy Heavy, 🎉 Party Favorite
 
 ---
 

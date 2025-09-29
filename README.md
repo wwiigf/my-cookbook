@@ -1,8 +1,7 @@
-# Ryan's Cookbook 🍖
+# Ryan's Cookbook 
 
 <div style="text-align: center; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border-radius: 10px; margin-bottom: 30px;">
   <h2 style="color: white; border: none; background: none;">I cook these things. Now you can.</h2>
-  <p style="margin: 0;">Time-tested recipes that actually work</p>
 </div>
 
 ---

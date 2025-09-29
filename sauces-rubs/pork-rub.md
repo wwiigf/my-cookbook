@@ -52,12 +52,9 @@
 
 ## Notes
 
-- The kosher salt note is serious - iodized salt will give an off, metallic flavor
 - Hawaiian raw sugar adds a subtle molasses note if you can find it
-- Pure chili powder means just ground chiles - check the label
 - Hungarian paprika has more depth than regular paprika
 - The sage is what sets this apart from typical BBQ rubs - don't skip it
-- This rub is perfectly balanced for low and slow cooking
 
 ---
 

@@ -80,36 +80,9 @@ Caramel-soaked cake with brown butter cream cheese frosting.
 
 ---
 
-## 📚 Quick Reference
-
-### ⚡ 30-Minute Meals
-- **[Pork Rub](sauces-rubs/pork-rub.md)** - 5 min
-- **[Vinegar Finishing Sauce](sauces-rubs/vinegar-finishing-sauce.md)** - 25 min  
-- **[Biscuits and Gravy](mains/biscuits-and-gravy.md)** - 35 min
-
-### 🍳 Under 1 Hour
-- **[Cornbread](sides/cornbread.md)** - 40 min
-- **[Southern Mac N Cheese](mains/southern-mac-n-cheese.md)** - 50 min
-- **[Crispy Butter Biscuits](sides/crispy-butter-biscuits.md)** - 50 min
-- **[Lemon Bars](desserts/lemon-bars.md)** - 60 min
-
-### ⏰ Weekend Projects
-- **[Collard Greens](sides/collard-greens.md)** - 1 hour
-- **[Brown Butter Cake](desserts/brown-butter-cake.md)** - 1.5 hours
-- **[Gila River Bowl of Red](mains/gila-river-bowl-of-red.md)** - 2.5 hours
-- **[Crème Brûlée](desserts/creme-brulee.md)** - 5+ hours
-- **[Pulled Pork](mains/pulled-pork.md)** - 20 hours
-
-### 🔧 Special Equipment Needed
-- **Cast Iron:** [Cornbread](sides/cornbread.md)
-- **Kitchen Torch:** [Crème Brûlée](desserts/creme-brulee.md)
-- **Big Green Egg:** [Pulled Pork](mains/pulled-pork.md)
-
----
-
 ## 📂 Resources
 
-**[BGE Long Term Fire Guide](resources/wiseone.pdf)** - Essential for overnight smoking
+**[BGE Long Term Fire Guide](resources/WiseOneRecipes.pdf))** - Essential for overnight smoking
 
 ---
 

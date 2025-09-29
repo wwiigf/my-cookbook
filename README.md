@@ -96,8 +96,4 @@ I cook these things. Now you can.
 
 ---
 
-*Happy Cooking! 🍳*
-
----
-
-[Back to Top](#southern-cookbook-)
+[Back to Top](#ryans-cookbook-)

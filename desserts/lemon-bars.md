@@ -52,11 +52,8 @@
 ## Notes
 
 - Meyer lemons make these extra special with their sweeter, more complex flavor
-- The filling will seem liquidy when you pour it on - that's correct
 - Don't underbake - the filling should be completely set with no jiggle
 - These are best chilled and will keep for up to 5 days in the fridge
-- The powdered sugar topping will absorb slightly - that's normal and delicious
-- As the recipe says: there's nothing more to say, they're just amazing
 
 ---
 

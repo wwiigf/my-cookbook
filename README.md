@@ -40,6 +40,9 @@
 **[Pork Rub](sauces-rubs/pork-rub.md)**  
 *"Rub me up"*  
 
+**[Pizza Sauce](sauces-rubs/pizza-sauce.md)**  
+*"Italian accents mandatory"*  
+
 ---
 
 ## 🍰 Desserts

@@ -6,7 +6,6 @@
 **Cook Time:** 45 minutes  
 **Total Time:** 1 hour  
 **Servings:** 16 bars  
-**Tags:** 🕐 Quick, 🎉 Party Favorite
 
 ---
 

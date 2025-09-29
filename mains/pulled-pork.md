@@ -6,7 +6,6 @@
 **Cook Time:** 12-14 hours  
 **Total Time:** ~20 hours  
 **Servings:** 10-12  
-**Tags:** 🍖 BBQ, ⏰ Slow Cook, 🔥 Requires Special Equipment
 
 ---
 

@@ -1,25 +1,21 @@
-# GitHub Pages Configuration
-theme: jekyll-theme-minimal
+# GitHub Pages Configuration with Cayman Theme
+theme: jekyll-theme-cayman
 title: Ryan's Cookbook
-description: I cook these things. Now you can.
+description: Make some food idiot. 
 
-# Remove GitHub project link and profile
-show_downloads: false
+# Hide GitHub link
 github:
   is_project_page: false
-  is_user_page: false
 
-# Better markdown processing
+# Markdown processing
 markdown: kramdown
 kramdown:
   input: GFM
   auto_ids: true
-  syntax_highlighter: rouge
+  hard_wrap: false
 
-# Plugins
 plugins:
   - jekyll-relative-links
-  - jemoji
 
 relative_links:
   enabled: true

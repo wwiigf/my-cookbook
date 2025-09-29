@@ -54,7 +54,7 @@
 
 ## 📂 Resources
 
-**[BGE Long Term Fire Guide](resources/WiseOneRecipes.pdf** - Essential for overnight smoking
+**[BGE Long Term Fire Guide](resources/WiseOneRecipes.pdf)** - Essential for overnight smoking
 
 ---
 

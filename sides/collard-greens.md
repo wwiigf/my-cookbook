@@ -56,12 +56,8 @@
 
 ## Notes
 
-- The title says it all - seasoning is EVERYTHING with collard greens
 - Clean the greens thoroughly before cooking - they can be sandy
-- The ham hock is non-negotiable for authentic flavor
-- Don't skip the vinegar - it brightens the whole dish
-- The "pot liquor" (cooking liquid) is gold - serve it with the greens
-- These reheat beautifully and are even better the next day
+- Don't skip the vinegar 
 
 ---
 

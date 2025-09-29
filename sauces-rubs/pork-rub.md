@@ -6,7 +6,6 @@
 **Cook Time:** None  
 **Total Time:** 5 minutes  
 **Yield:** 1 cup  
-**Tags:** 🍖 BBQ, 🕐 Quick
 
 ---
 

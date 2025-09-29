@@ -58,3 +58,7 @@
 - Only use bread flour. The 00 flour is a scam and does not hydrate consistently
 
 ---
+
+## Related Recipes
+
+- [Pizza Sauce](../sauces-rubs/pizza-sauce.md) - Put this stuff on your 'zza

@@ -1,9 +1,3 @@
-# Ryan's Cookbook 
-
-Make some food, idiot. 
-
----
-
 ## 🍖 Mains
 
 **[Southern Mac N Cheese](mains/southern-mac-n-cheese.md)**  

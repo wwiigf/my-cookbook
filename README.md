@@ -122,45 +122,6 @@
 
 ---
 
-<div style="background: #f8f9fa; padding: 30px; border-radius: 10px; margin: 30px 0;">
-  <h2 style="text-align: center; color: #333; border: none;">📚 Quick Reference</h2>
-  
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-top: 20px;">
-    
-  <div style="text-align: center;">
-    <h4>🕐 Under 1 Hour</h4>
-    <small>
-      Pork Rub (5 min)<br>
-      Finishing Sauce (25 min)<br>
-      Biscuits & Gravy (35 min)<br>
-      Cornbread (40 min)
-    </small>
-  </div>
-  
-  <div style="text-align: center;">
-    <h4>🔥 Need Special Gear</h4>
-    <small>
-      Pulled Pork (BGE)<br>
-      Crème Brûlée (Torch)<br>
-      Cornbread (Cast Iron)
-    </small>
-  </div>
-  
-  <div style="text-align: center;">
-    <h4>🎉 Crowd Pleasers</h4>
-    <small>
-      Mac N Cheese<br>
-      Bowl of Red<br>
-      Pulled Pork<br>
-      Brown Butter Cake
-    </small>
-  </div>
-  
-  </div>
-</div>
-
----
-
 <div style="text-align: center; padding: 20px; background: #333; color: white; border-radius: 10px; margin-top: 40px;">
   <p style="margin: 0;">🍴 Happy Cooking from Ryan's Kitchen 🍴</p>
   <small><a href="resources/WiseOneRecipes.pdf" style="color: #FFD700;">BGE Guide</a> | <a href="#ryans-cookbook-" style="color: #FFD700;">Back to Top</a></small>

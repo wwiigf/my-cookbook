@@ -1,6 +1,6 @@
 # Ryan's Cookbook 
 
-I cook these things. Now you can.
+Make some food, idiot. 
 
 ---
 

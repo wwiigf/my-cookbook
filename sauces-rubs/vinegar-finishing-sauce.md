@@ -52,8 +52,6 @@
 
 - The base recipe is true Eastern North Carolina style - vinegar-forward with heat
 - The Tennessee Red variation adds sweetness and body with ketchup and cane syrup
-- This sauce is meant to cut through rich, fatty BBQ with its acidity
-- Don't skip the simmer - it mellows the vinegar's sharpness and melds the flavors
 - The sauce will seem thin but that's intentional - it should penetrate the meat
 
 ---

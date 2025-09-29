@@ -6,7 +6,6 @@
 **Cook Time:** 20 minutes  
 **Total Time:** 25 minutes  
 **Yield:** About 1.5 cups  
-**Tags:** 🌶️ Spicy, 🍖 BBQ, 🕐 Quick
 
 ---
 

@@ -54,11 +54,7 @@
 
 ## Notes
 
-- The caraway seeds add an unexpected depth - don't skip them
-- Using both sausage AND bacon creates the ultimate meat gravy
-- Warm milk incorporates better and prevents lumps in your gravy
 - The gravy will continue to thicken as it cools, so keep it slightly thinner than your target
-- This reheats beautifully with a splash of milk to thin it back out
 - Make sure your biscuits are fresh and warm for maximum satisfaction
 
 ---

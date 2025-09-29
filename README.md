@@ -15,7 +15,7 @@
 *"Stick to your ribs"*  
 
 **[Every Day Pizza Dough](mains/pizza-dough.md)**  
-*"Stick to your ribs"*  
+*"Mess one thing up and you're fucked"*  
 
 ---
 

@@ -51,8 +51,6 @@
 - Shredding and freezing the butter is the secret to incredible flaky layers
 - The folding technique (lamination) creates distinct layers like a croissant
 - Don't twist the cutter when making round biscuits - it seals the edges and prevents rising
-- These biscuits are intentionally baked longer for a crispy exterior
-- Perfect for soaking up gravy, pot liquor, or any sauce on your plate
 
 ---
 

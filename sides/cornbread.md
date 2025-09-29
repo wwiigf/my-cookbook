@@ -57,11 +57,8 @@
 
 ## Notes
 
-- The secret to non-crumbly cornbread is the oil AND butter combination
 - Preheating the cast iron creates an amazing crispy crust
 - Don't overmix - this leads to tough, dense cornbread
-- The honey in the batter plus honey for serving gives it the perfect sweetness
-- This cornbread stays moist for days (if it lasts that long)
 
 ---
 

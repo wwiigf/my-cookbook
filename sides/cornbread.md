@@ -1,74 +1,72 @@
-# Gila River Bowl of Red
+# Cornbread
 
-> *"These mountains won't be blue, we're going for a banquet"*
+> *"Not crumbly and crappy"*
 
-**Prep Time:** 30 minutes  
-**Cook Time:** 2 hours  
-**Total Time:** 2.5 hours  
-**Servings:** 6-8  
-**Tags:** 🌶️ Spicy, ⏰ Slow Cook, 🎉 Party Favorite
+**Prep Time:** 10 minutes  
+**Cook Time:** 30 minutes  
+**Total Time:** 40 minutes  
+**Servings:** 8-10  
+**Tags:** 🕐 Quick, 🔥 Requires Special Equipment (cast iron)
 
 ---
 
 ## Ingredients
 
-### Meats
-- 5 slices bacon
-- 8 oz hot bulk pork sausage
-- 1.5 lb ground beef
-
-### Vegetables
-- 1.25 cup chopped onion (1 large white onion)
-- 2 green peppers chopped (bell and pasillas)
-- 2 cloves crushed garlic
-- 2 dried red chiles, seeded and crushed
-- 2 jalapeños, seeded and crushed
-
-### Seasonings & Liquids
-- 1.5 tsp chili powder
-- 0.25 tsp oregano
+### Dry Ingredients
+- 1 cup flour
+- 3/4 cup yellow cornmeal
 - 0.5 tsp salt
-- 2 cans of Coors Banquet
-- 1 can tomato paste
-- 16 oz can of pinto beans
+- 0.5 tsp baking soda
+- 2 tsp baking powder
+
+### Wet Ingredients
+- 1/2 cup butter (1 stick)
+- 1/4 cup vegetable oil
+- 1 cup granulated sugar
+- 1/3 cup honey
+- 2 large eggs
+- 1 & 1/4 cup buttermilk
 
 ### For Serving
-- Shredded cheddar cheese
-- Raw chopped white onions
-- Cornbread (essential!)
+- Butter
+- Honey
 
 ---
 
 ## Instructions
 
-1. **Cook bacon:** Cook bacon until crisp. Drain, crumble, and set aside.
+1. **Preheat with cast iron:** Preheat oven to 375°F. Put your cast iron skillet in the oven as it preheats.
 
-2. **Brown sausage:** Brown the hot pork sausage. Drain, reserve the grease, and set sausage aside.
+2. **Mix dry ingredients:** In a bowl, combine flour, yellow cornmeal, salt, baking soda, and baking powder. Set aside.
 
-3. **Sweat the beef mixture:** In reserved oil, sweat the ground beef, onion, green peppers, and garlic until the beef is browned and vegetables are softened.
+3. **Melt butter:** Melt the stick of butter and let it cool slightly.
 
-4. **Combine meats and seasonings:** Add in the bacon, sausage, additional peppers (dried red chiles and jalapeños), and all seasonings. Stir to combine, and continue cooking over low heat.
+4. **Combine wet ingredients:** In a separate bowl, add oil, sugar, honey, and melted butter. Mix well. Wait for melted butter to cool before proceeding.
 
-5. **Add liquids:** Stir in both cans of Coors Banquet and the tomato paste.
+5. **Add eggs and buttermilk:** Once butter mixture has cooled, add eggs and buttermilk. Whisk until fully incorporated.
 
-6. **First simmer:** Bring to a boil, then drop to a simmer and cover for 1.5 hours.
+6. **Combine wet and dry:** Stir the dry ingredients into the wet ingredients using a spoon (not the whisk). Don't over mix - some lumps are fine.
 
-7. **Add beans:** Add pinto beans, then simmer covered for an additional 30 minutes.
+7. **Prepare the pan:** Carefully remove the hot cast iron pan from the oven and completely butter it.
 
-8. **Serve:** Ladle into bowls and top with shredded cheddar cheese and raw chopped white onions. Serve with cornbread on the side.
+8. **Bake:** Add mixture to the hot, buttered pan. Place cast iron in the oven and bake at 375°F for 30 minutes.
+
+9. **Cool and serve:** Remove from oven, let cool for 10 minutes, and serve with butter and honey.
 
 ---
 
 ## Notes
 
-- The Coors Banquet is non-negotiable - "these mountains won't be blue"
-- The reserved sausage grease adds incredible depth of flavor
-- Adjust the heat level with more or fewer jalapeños and dried chiles
-- This chili is even better the next day after the flavors have melded
+- The secret to non-crumbly cornbread is the oil AND butter combination
+- Preheating the cast iron creates an amazing crispy crust
+- Don't overmix - this leads to tough, dense cornbread
+- The honey in the batter plus honey for serving gives it the perfect sweetness
+- This cornbread stays moist for days (if it lasts that long)
 
 ---
 
 ## Related Recipes
 
-- [Cornbread](../sides/cornbread.md) - Essential accompaniment
-- [Crispy Butter Biscuits](../sides/crispy-butter-biscuits.md) - Another great bread option
+- [Gila River Bowl of Red](../mains/gila-river-bowl-of-red.md) - Perfect pairing
+- [Pulled Pork](../mains/pulled-pork.md) - Classic BBQ combination
+- [Collard Greens](../sides/collard-greens.md) - Southern meal staple

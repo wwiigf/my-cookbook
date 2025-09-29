@@ -1,0 +1,34 @@
+# GitHub Pages Configuration
+theme: jekyll-theme-minimal
+title: Southern Cookbook
+description: A collection of time-tested Southern and comfort food recipes
+show_downloads: false
+
+# Navigation structure
+navigation:
+  - title: Home
+    url: /
+  - title: Mains
+    url: /#-mains
+  - title: Sides
+    url: /#-sides
+  - title: Sauces & Rubs
+    url: /#-sauces--rubs
+  - title: Desserts
+    url: /#-desserts
+
+# Plugin configuration
+plugins:
+  - jekyll-relative-links
+  - jekyll-seo-tag
+
+# Markdown processing
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Relative links
+relative_links:
+  enabled: true
+  collections: true

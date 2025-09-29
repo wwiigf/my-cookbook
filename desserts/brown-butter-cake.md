@@ -6,7 +6,6 @@
 **Cook Time:** 38 minutes  
 **Total Time:** 1.5 hours  
 **Servings:** 16 squares  
-**Tags:** 🥛 Dairy Heavy, 🎉 Party Favorite
 
 ---
 

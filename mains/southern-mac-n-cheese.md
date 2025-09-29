@@ -67,10 +67,10 @@
 
 ## Notes
 
-- The key to this recipe is not being shy with the cheese - hence "cheese all through the bitch"
+- The key to this recipe is making sure you're using enough milk before baking. Don't hesitate to continue adding milk above what the recipe asks for. 
 - The butter cubes on top create crispy, golden spots that are absolutely essential
 - Don't skip the mustards - they add a tangy depth that balances all that cheese
-- Feel free to adjust the hot sauce and cajun seasoning to your heat preference
+- Feel free to adjust the hot sauce and cajun seasoning to your heat preference. I use Louisianna style hotsauce for this. 
 
 ---
 

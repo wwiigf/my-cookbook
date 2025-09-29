@@ -6,7 +6,6 @@
 **Cook Time:** 25 minutes  
 **Total Time:** 35 minutes  
 **Servings:** 4-6  
-**Tags:** 🕐 Quick, 🍖 BBQ, 🥛 Dairy Heavy
 
 ---
 

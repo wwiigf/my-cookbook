@@ -61,9 +61,6 @@
 
 ## Notes
 
-- The Coors Banquet is non-negotiable - "these mountains won't be blue"
-- The reserved sausage grease adds incredible depth of flavor
-- Adjust the heat level with more or fewer jalapeños and dried chiles
 - This chili is even better the next day after the flavors have melded
 
 ---

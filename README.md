@@ -163,5 +163,5 @@
 
 <div style="text-align: center; padding: 20px; background: #333; color: white; border-radius: 10px; margin-top: 40px;">
   <p style="margin: 0;">🍴 Happy Cooking from Ryan's Kitchen 🍴</p>
-  <small><a href="resources/wiseone.pdf" style="color: #FFD700;">BGE Guide</a> | <a href="#ryans-cookbook-" style="color: #FFD700;">Back to Top</a></small>
+  <small><a href="resources/WiseOneRecipes.pdf" style="color: #FFD700;">BGE Guide</a> | <a href="#ryans-cookbook-" style="color: #FFD700;">Back to Top</a></small>
 </div>

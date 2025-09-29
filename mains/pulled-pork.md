@@ -51,10 +51,9 @@
 
 ## Notes
 
-- The overnight cook is the way to go - start at 10pm for lunch the next day
 - Don't rush the process - low and slow is the key to perfect pulled pork
-- The bourbon isn't just for drinking (though that's important) - it helps pass the time
-- The vinegar sauce before wrapping is crucial for flavor penetration
+- If your fire goes out, you can wrap and transfer to a 245 oven until it's reached 200 internal temp
+- The vinegar sauce after shredding is crucial for more flavor
 - Internal temp of 200°F ensures the connective tissue has fully broken down
 
 ---

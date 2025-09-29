@@ -1,0 +1,172 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Custom styles for Ryan's Cookbook */
+
+/* Main title styling */
+h1 {
+  color: #8B4513;
+  border-bottom: 3px solid #D2691E;
+  padding-bottom: 10px;
+  font-family: 'Georgia', serif;
+}
+
+/* Recipe category headers */
+h2 {
+  color: #A0522D;
+  background: linear-gradient(to right, #FFF8DC, transparent);
+  padding: 10px;
+  border-left: 5px solid #D2691E;
+  margin-top: 30px;
+}
+
+/* Individual recipe titles */
+strong a {
+  color: #8B4513 !important;
+  text-decoration: none !important;
+  transition: all 0.3s ease;
+  font-size: 1.1em;
+}
+
+strong a:hover {
+  color: #D2691E !important;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+}
+
+/* Recipe taglines */
+em {
+  color: #666;
+  font-size: 0.95em;
+  display: block;
+  margin: 5px 0;
+  padding-left: 10px;
+  border-left: 2px solid #DDD;
+}
+
+/* Time and tags */
+p {
+  line-height: 1.8;
+}
+
+/* Recipe cards effect */
+h2 + p {
+  background: #FFF8DC;
+  padding: 15px;
+  border-radius: 8px;
+  margin: 10px 0;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease;
+}
+
+h2 + p:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+/* Hide the default sidebar */
+.wrapper {
+  width: 100%;
+}
+
+section {
+  width: 90%;
+  max-width: 900px;
+  margin: 0 auto;
+  float: none;
+}
+
+header {
+  display: none;
+}
+
+/* Mobile responsive */
+@media screen and (max-width: 600px) {
+  section {
+    width: 95%;
+  }
+  
+  h1 {
+    font-size: 1.8em;
+  }
+  
+  h2 {
+    font-size: 1.3em;
+  }
+}
+
+/* Recipe page styling */
+blockquote {
+  border-left: 4px solid #D2691E;
+  background: #FFF8DC;
+  padding: 15px;
+  font-style: italic;
+  color: #666;
+  margin: 20px 0;
+}
+
+/* Ingredients and instructions */
+h3 {
+  color: #8B4513;
+  border-bottom: 2px solid #DDD;
+  padding-bottom: 5px;
+  margin-top: 25px;
+}
+
+/* Lists styling */
+ul li, ol li {
+  margin-bottom: 10px;
+  line-height: 1.6;
+}
+
+/* Code blocks for temps/times */
+code {
+  background: #FFF8DC;
+  padding: 2px 6px;
+  border-radius: 3px;
+  color: #8B4513;
+  font-size: 0.95em;
+}
+
+/* Table styling for recipe index */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+td {
+  padding: 10px;
+  vertical-align: top;
+}
+
+/* Print styles */
+@media print {
+  section {
+    width: 100%;
+  }
+  
+  h2 + p {
+    box-shadow: none;
+    page-break-inside: avoid;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #D2691E;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #8B4513;
+}

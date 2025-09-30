@@ -15,7 +15,7 @@
 *"Mess one thing up and you're fucked"*  
 
 **[Vodka Pasta](mains/vodka-pasta.md)**  
-*"Tomato sauce's drunk cousin"*  
+*"Can you get drunk off this?"*  
 
 **[Chicken Parmesan](mains/chicken-parmesan.md)**  
 *"Dirty every bowl and pan in your kitchen, and make a huge mess cause you're a dirty disgusting person who loves chicken parm"*

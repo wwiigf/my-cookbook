@@ -35,15 +35,17 @@
 ---
 
 ## 🧂 Sauces & Rubs
-
 **[Vinegar Finishing Sauce](sauces-rubs/vinegar-finishing-sauce.md)**  
-*"I've never been to North Carolina, but this sauce has"*  
+*"I've never been to North Carolina, but this sauce has"* 
 
 **[Pork Rub](sauces-rubs/pork-rub.md)**  
 *"Rub me up"*  
 
 **[Pizza Sauce](sauces-rubs/pizza-sauce.md)**  
-*"Italian accents mandatory"*  
+*"Italian accents mandatory"* 
+
+**[Every Day Tomato Sauce](sauces-rubs/every-day-tomato-sauce.md)**  
+*"Your base for every italian recipe needing a tomato sauce"*
 
 ---
 

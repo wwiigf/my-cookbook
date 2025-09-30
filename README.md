@@ -6,16 +6,18 @@
 *"These mountains won't be blue, we're going for a banquet"*  
 
 **[Pulled Pork](mains/pulled-pork.md)**  
-*"On a sandwich, or on its own"*  
+*"on a sandwich, or on its own"*  
 
 **[Biscuits and Gravy](mains/biscuits-and-gravy.md)**  
 *"Stick to your ribs"*  
-
 **[Every Day Pizza Dough](mains/pizza-dough.md)**  
 *"Mess one thing up and you're fucked"*  
 
 **[Vodka Pasta](mains/vodka-pasta.md)**  
-*"Can you get drunk off this?"*
+*"Tomato sauce's drunk cousin"*  
+
+**[Chicken Parmesan](mains/chicken-parmesan.md)**  
+*"Worth every dirty dish"*
 
 ---
 

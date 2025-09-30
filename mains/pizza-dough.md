@@ -4,6 +4,7 @@
 
 **Prep Time:** 3 hours  
 **Total Time:** 3 hours
+
 **Servings:** 1 Large pizza, or 2 Medium pizzas
 
 ---

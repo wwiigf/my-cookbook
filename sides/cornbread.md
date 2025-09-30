@@ -46,7 +46,7 @@
 
 6. **Combine wet and dry:** Stir the dry ingredients into the wet ingredients using a spoon (not the whisk). Don't over mix - some lumps are fine.
 
-7. **Prepare the pan:** Carefully remove the hot cast iron pan from the oven and completely butter it.
+7. **Prepare the pan:** Carefully remove the hot cast iron pan from the oven, and coat it with butter. 
 
 8. **Bake:** Add mixture to the hot, buttered pan. Place cast iron in the oven and bake at 375°F for 30 minutes.
 

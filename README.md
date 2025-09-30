@@ -6,7 +6,7 @@
 *"These mountains won't be blue, we're going for a banquet"*  
 
 **[Pulled Pork](mains/pulled-pork.md)**  
-*"on a sandwich, or on its own"*  
+*"On a sandwich, or on its own"*  
 
 **[Biscuits and Gravy](mains/biscuits-and-gravy.md)**  
 *"Stick to your ribs"*  

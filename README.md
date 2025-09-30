@@ -15,7 +15,7 @@
 *"Mess one thing up and you're fucked"*  
 
 **[Vodka Pasta](mains/vodka-pasta.md)**  
-*"Tomato sauce's drunk cousin"*
+*"Can you get drunk off this?"*
 
 ---
 

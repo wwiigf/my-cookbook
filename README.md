@@ -20,15 +20,17 @@
 ---
 
 ## 🥘 Sides
-
 **[Cornbread](sides/cornbread.md)**  
 *"Not crumbly and crappy"*  
 
 **[Collard Greens](sides/collard-greens.md)**  
-*"Please for the love of god season them appropriately"*  
+*"Please for the love of god season them appropriately"* 
 
 **[Crispy Butter Biscuits](sides/crispy-butter-biscuits.md)**  
 *"Perfect to soak up all that graavy"*  
+
+**[All Good Things Chip Dip](sides/all-good-things-chip-dip.md)**  
+*"What if we just added everything into a bowl?"*
 
 ---
 

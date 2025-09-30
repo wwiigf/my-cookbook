@@ -1,12 +1,9 @@
 ## 🍖 Mains
-
 **[Southern Mac N Cheese](mains/southern-mac-n-cheese.md)**  
 *"Cheese all through the bitch"*  
 
-
 **[Gila River Bowl of Red](mains/gila-river-bowl-of-red.md)**  
 *"These mountains won't be blue, we're going for a banquet"*  
-
 
 **[Pulled Pork](mains/pulled-pork.md)**  
 *"on a sandwich, or on its own"*  
@@ -16,6 +13,9 @@
 
 **[Every Day Pizza Dough](mains/pizza-dough.md)**  
 *"Mess one thing up and you're fucked"*  
+
+**[Vodka Pasta](mains/vodka-pasta.md)**  
+*"Tomato sauce's drunk cousin"*
 
 ---
 

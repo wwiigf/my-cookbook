@@ -10,6 +10,7 @@
 
 **[Biscuits and Gravy](mains/biscuits-and-gravy.md)**  
 *"Stick to your ribs"*  
+
 **[Every Day Pizza Dough](mains/pizza-dough.md)**  
 *"Mess one thing up and you're fucked"*  
 
@@ -17,7 +18,7 @@
 *"Tomato sauce's drunk cousin"*  
 
 **[Chicken Parmesan](mains/chicken-parmesan.md)**  
-*"Worth every dirty dish"*
+*"Dirty every bowl and pan in your kitchen, and make a huge mess cause you're a dirty disgusting person who loves chicken parm"*
 
 ---
 

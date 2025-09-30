@@ -63,6 +63,7 @@
 ## 🇦🇲 Armenian 
 [Chodag](armenian/chodag.md)  
 "It's braided bread"  
+
 ---
 ## 📂 Resources
 [The Wise One BGE Guide](resources/WiseOneRecipes.pdf) - Essential for overnight smoking

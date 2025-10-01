@@ -53,7 +53,6 @@
 ---
 
 ## 🍰 Desserts
-
 **[Lemon Bars](desserts/lemon-bars.md)**  
 *"I've got nothing to say, lemon bars are amazing"*  
 
@@ -62,6 +61,9 @@
 
 **[Brown Butter Cake](desserts/brown-butter-cake.md)**  
 *"A lazy man's sticky toffee pudding"*  
+
+**[Snickerdoodle Blondies](desserts/snickerdoodle-blondies.md)**  
+*"It's like a brownie, but it's NOT"*
 
 ---
 

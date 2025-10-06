@@ -59,6 +59,9 @@
 **[Every Day Tomato Sauce](sauces-rubs/every-day-tomato-sauce.md)**  
 *"Your base for every italian recipe needing a tomato sauce"*
 
+**[Mary's Caesar Dressing](sauces-rubs/marys-caesar-dressing.md)**  
+*"This is better than the crappy mayo ones"*
+
 ---
 
 ## 🍰 Desserts

@@ -74,6 +74,9 @@
 **[Snickerdoodle Blondies](desserts/snickerdoodle-blondies.md)**  
 *"It's like a brownie, but it's NOT"*
 
+**[Honey Butter Toast](desserts/honey-butter-toast.md)**  
+*"EZ, crispy, Japanese goodness"*
+
 ---
 
 ## 🇦🇲 Armenian 

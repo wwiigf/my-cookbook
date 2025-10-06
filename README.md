@@ -57,10 +57,7 @@
 *"I've got nothing to say, lemon bars are amazing"*  
 
 **[Crème Brûlée](desserts/creme-brulee.md)**  
-*"Everyone gets stoked when the hand torch comes out"*  
-
-**[Brown Butter Cake](desserts/brown-butter-cake.md)**  
-*"A lazy man's sticky toffee pudding"*  
+*"Everyone gets stoked when the hand torch comes out"*   
 
 **[Snickerdoodle Blondies](desserts/snickerdoodle-blondies.md)**  
 *"It's like a brownie, but it's NOT"*

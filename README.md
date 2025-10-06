@@ -35,6 +35,9 @@
 **[All Good Things Chip Dip](sides/all-good-things-chip-dip.md)**  
 *"What if we just added everything into a bowl?"*
 
+**[Cowboy Candy](sides/cowboy-candy.md)**  
+*"It's a spicy candy"*
+
 ---
 
 ## 🧂 Sauces & Rubs

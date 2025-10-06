@@ -41,6 +41,9 @@
 **[Cowboy Candy](sides/cowboy-candy.md)**  
 *"It's a spicy candy"*
 
+**[Kale Caesar](sides/kale-caesar.md)**  
+*"I hate salad #1"*
+
 ---
 
 ## 🧂 Sauces & Rubs

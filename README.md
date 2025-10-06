@@ -20,6 +20,9 @@
 **[Chicken Parmesan](mains/chicken-parmesan.md)**  
 *"Dirty every bowl and pan in your kitchen, and make a huge mess cause you're a dirty disgusting person who loves chicken parm"*
 
+**[Risotto alla Pilota](mains/risotto-alla-pilota.md)**  
+*"It's sausage and rice, but the name sounds fancy"*
+
 ---
 
 ## 🥘 Sides
